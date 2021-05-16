@@ -8,8 +8,7 @@ Django project that uses Googles APIs to auto populate fields, display maps and 
 5) pip install -r requirements.txt
 6) Create and update settings.ini with your email API information
 
-
-GOOGLE_API_KEY = "XXX"
+API_KEY = "XXX"
 
 
 7) python manage.py makemigrations

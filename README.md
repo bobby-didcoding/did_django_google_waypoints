@@ -16,4 +16,14 @@ API_KEY = "XXX"
 9) python manage.py runserver
 10) https://localhost:8000 - Bob's your uncle!! 
 
+Note: 
+
+Don't forget to activate the following Google API's
+
+Places API
+Maps Javascript API
+Directions API
+Distance Matrix API
+Geocoding API
+
 
